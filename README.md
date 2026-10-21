@@ -58,10 +58,6 @@ npm start
 
 Depois é só acessar `http://localhost:3000` no navegador.
 
-## 📚 Referência
-
-Projeto baseado no repositório oficial do desafio:
-[digitalinnovationone/trilha-react-desafio01-calculadora](https://github.com/digitalinnovationone/trilha-react-desafio01-calculadora)
 
 ## 👩‍💻 Autoria
 
